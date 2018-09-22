@@ -1,0 +1,3 @@
+psql postgres #psql console for postgres user
+hivemind # start hivemind server
+yarn install or yarn add # instead of npm, use yarn
