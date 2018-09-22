@@ -6,3 +6,6 @@ This is a Rails 5.2.1 application using a new way to handle the frontend. A more
 - Install/Setup Postgres
 - Install Yarn
 - Bundle Install
+
+# Original Guide
+This template was created from a guide here => https://evilmartians.com/chronicles/evil-front-part-1
